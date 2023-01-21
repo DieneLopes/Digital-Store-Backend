@@ -1,8 +1,8 @@
-# Backend do projeto e-commerce:
+# Backend do projeto de E-commerce:
 (https://github.com/DieneLopes/Digital-Store-Ecommerce) => Ainda não implementado
 
 # Início :
-- Fazer um clone do nosso repositório: git clone https://github.com/DieneLopes/Digital-Store-Backendd
+- Fazer um clone do nosso repositório: git clone https://github.com/DieneLopes/Digital-Store-Backend
 - Primeiros comados para rodar o projeto no modo saboroso: npm install && npm start (estando com o NodeJS previamente instalado).
 - Usamos Insomnia para testar os end-points. Os end-points do insomnia estão salvo em arquivo.
 - URL para testar o projeto: http://localhost:3000 
