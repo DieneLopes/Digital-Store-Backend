@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "nome": "Fulano",
+    "idade": 28,
+    "cidade": "Fortaleza",
+    "email": "fulano@email.com",
+    "senha": "12345"
+  },
+  {
+    "id": 2,
+    "nome": "Beltrano",
+    "idade": 29,
+    "cidade": "Pacatuba",
+    "email": "beltrano@email.com",
+    "senha": "12345"
+  },
+  {
+    "id": 3,
+    "nome": "Sicrano",
+    "idade": 30,
+    "cidade": "Maracanaú",
+    "email": "sicrano@email.com",
+    "senha": "12345"
+  }
+]
